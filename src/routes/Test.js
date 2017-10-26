@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
+import { Button, Form, Input, Icon } from 'antd';
 import './index.css';
-import {router,route} from ''
 
 class Index extends Component {
     submit = () => {
